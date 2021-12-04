@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: ნაგულისხმევი
 language: 'ka-ge'
 version: '4.0'
 title: 'შესავალი'
-keywords: 'introduction'
+keywords: 'შესავალი'
 ---
 
 # კეთილი იყოს თქვენი მობრძანება
