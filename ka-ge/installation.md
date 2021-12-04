@@ -31,7 +31,7 @@ extension=psr.so
 
 ### PDO
 
-Since Phalcon is loosely coupled, it exposes functionality without the need for additional extensions. However, certain components rely on additional extensions to work. When in need for database connectivity and access, you will need to install the `php_pdo` extension. If your RDBMS is MySQL/MariaDB or Aurora, you will need the `php_mysqlnd` extension also. Similarly, using a PostgreSql database with Phalcon requires the `php_pgsql` extension.
+იმის გამო, რომ Phalcon სუსტად არის დაკავშირებული, ის უზრუნველყოფს ფუნქციონირებას დამატებითი გაფართოების საჭიროების გარეშე. თუმცა, ზოგიერთი კომპონენტების მუშაობისათვის საჭიროა დამატებითი გაფართოებები. როდესაც თქვენ დაგჭირდებათ მონაცემთა ბაზასთან დაკავშირება და წვდომა, თქვენ დაგჭირდებათ `php_pdo` გაფართოების დაინსტალირება. თუ თქვენი RDBMS MySQL/MariaDB ან Aurora, არის, თქვენ ასევე დაგჭირდებათ `php_mysqlnd` გაფართოება. ანალოგიურად, PostgreSql მონაცემთა ბაზის გამოყენებისათვის Phalcon-ი მოითხოვს `php_pgsql` გაფართოებას.
 
 ### Load order
 
